@@ -34,7 +34,7 @@ This report presents insights from the sales data analysis. Notable findings inc
 
 ---
 
-# ✅ Improvements for the Repository:
+# Improvements for the Repository:
 - Add visualizations to `visualizations/`
 This will be done using PowerBI
 ---
