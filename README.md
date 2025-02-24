@@ -19,12 +19,6 @@ sql_sales_analysis/
 ├── README.md
 ```
 
-## How to Run the Queries
-1. Clone the repository:  
-   `git clone https://github.com/yourusername/sql_sales_analysis.git`
-2. Import `sales_data_sample.csv` into your SQL environment.
-3. Run the scripts in `sql_queries/` to explore the data.
-
 ## Key Insights
 - Most sold product: Food and Beverages
 - City with most purchases: Naypyitaw
