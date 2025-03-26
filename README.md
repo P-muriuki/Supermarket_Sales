@@ -40,9 +40,9 @@ I created an interactive dashboard and a presentation using Power BI to analyze 
 
 
 Key Insights:
-1️⃣ Mandalay shows significant potential for supermarket expansion due to growing consumption trends.
-2️⃣ Naypyitaw has lower tourist activity, so supermarkets should focus on household essentials.
-3️⃣ Both Mandalay and Naypyitaw experience sales peaks three times a week, with Saturday being a high-sales day in Mandalay.
+1. Mandalay shows significant potential for supermarket expansion due to growing consumption trends.
+2. Naypyitaw has lower tourist activity, so supermarkets should focus on household essentials.
+3. Both Mandalay and Naypyitaw experience sales peaks three times a week, with Saturday being a high-sales day in Mandalay.
 
 For detailed explanations, refer to the presentation included in this repository.
 
